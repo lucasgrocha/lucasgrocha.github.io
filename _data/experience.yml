@@ -1,0 +1,10 @@
+# Experience template
+- layout: left
+  company: Agrosmart
+  # link: Link to company (optional)
+  job_title: Web Developer - Ruby on Rails
+  dates: November 2019 - May 2020
+  # quote: >
+  #   Short description of the company (optional)
+  description: |
+    Durante esse período, trabalhei no desenvolvimento de software utilizando Ruby on Rails, ReactJS, PostgreSQL, entre outras tecnologias. Realizei correção de bugs, implementação de novas features e desenvolvendo testes automatizados utilizando o RSpec. A dinâmica de trabalho, baseada em metodologias, me proporcionou experiência com Scrum, Kanban e OKR. Além das novas features e correção de bugs, também desenvolvi alguns projetos, por exemplo um sistema de segurança para evitar múltiplas requisições no servidor, o que poderia indicar uma eventual tentativa de invasão. Esse e outros projetos foram bem divertidos de estar realizando porque consegui aprender vários outros conceitos mais técnicos da web.
