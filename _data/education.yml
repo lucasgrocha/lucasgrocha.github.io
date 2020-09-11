@@ -2,7 +2,17 @@
 - layout: left
   name: Faculdade Politécnica de Campinas
   dates: MARCH 2018 - July 2020
-  qualification: System Analises e Development
+  qualification: System Analises and Development
+
+
+  # quote: >
+  #   Short institution or course description (optional)
+  # description: | # this will include new lines to allow paragraphs
+  #   Description of qualification
+- layout: left
+  name: CNA Idiomas
+  dates: 2014 - 2018
+  qualification: English course
   # quote: >
   #   Short institution or course description (optional)
   # description: | # this will include new lines to allow paragraphs

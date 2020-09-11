@@ -1,9 +1,19 @@
 # Project template
 - layout: top-middle
-  name: Project name
-  link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-  github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
+  name: Petty
+  link: https://github.com/lucasgrocha/petty
+  github: lucasgrocha/petty
   quote: >
-    Short overview of the project (optional)
+    A fullstack project made of ReactJS (Typescript) and Ruby on Rails as API
   description: | # this will include new lines to allow paragraphs
-    Description about the work on/with the project
+    This application is an awesome helper for entire pets,
+    using this app you can find out your lost or meet a new loyal friend by adopting one! 🐶<br/>
+    You can search for pets according to Its age or address (both city and state) and add a new one providing Its pictures, name, age, etc.<br />
+
+    Some of main libs
+    - carrierwave
+    - will_paginate
+    - jbuilder
+    - axios
+    - react-router-dom
+    - react-leaflet
