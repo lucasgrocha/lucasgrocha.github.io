@@ -45,13 +45,10 @@ linkedin_username: lucas-g-rocha
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/profile.jpeg
 about_content: | # this will include new lines to allow paragraphs
-  Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
+  Hi, my name's Lucas, I'm 20 years old and I'm a Web Developer.<br />
+  I'm seeking for an opportunity to do what I love and give my best everyday :D. The daily challenges is the coolest part of programming and solving them is right behind :D<br />
 
-  You can even add paragraphs by using empty lines like this and add anything else markdown supports such as
-    - Lists
-    - Tables
-    - <a href="google.com">Links</a>
-    - Images
+  I am most skilled in: <mark>ReactJS</mark>, <mark>Ruby on Rails</mark> & <mark>Javascript/Typescript/ES6+</mark>.
 
 # Projects Section
 # projects_title: Projects #(Use this to override about projects section title)
