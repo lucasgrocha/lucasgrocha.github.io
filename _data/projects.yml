@@ -4,8 +4,8 @@
   link: https://github.com/lucasgrocha/petty
   github: lucasgrocha/petty
   quote: >
-    A fullstack project made of ReactJS (Typescript) and Ruby on Rails as API
-  description: | # this will include new lines to allow paragraphs
+    A fullstack project made of <mark>ReactJS/Typescript</mark> and <mark>Ruby on Rails</mark> as API
+  description: |
     This application is an awesome helper for entire pets,
     using this app you can find out your lost or meet a new loyal friend by adopting one! 🐶<br/>
     You can search for pets according to Its age or address (both city and state) and add a new one providing Its pictures, name, age, etc.<br />
@@ -17,3 +17,20 @@
     - axios
     - react-router-dom
     - react-leaflet
+
+- layout: top-middle
+  name: Pokedex
+  link: https://github.com/lucasgrocha/pokedex
+  github: lucasgrocha/pokedex
+  quote: >
+    A <mark>ReactJS/Typescript</mark> pokedex that consumes an API to retrieve all data of pokemons.
+  description: |
+    This app is an awesome Pokedex, you can search for pokemons, you can learn about its details,
+    e.g: attack and defense power, discover its types, its speed and more, as well as see all evolutions
+    from base to last evolution and add to favorites a pokemon that you want to catch to become bigger than Ash Ketchum 🤟.
+
+    Some of main libs
+    - react-bootstrap
+    - react-js-pagination
+    - axios
+    - react-router-dom
