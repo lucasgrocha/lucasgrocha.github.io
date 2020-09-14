@@ -5,7 +5,7 @@ repository: Git repository where your resume will be hosted, only required if yo
 # Personal info
 name: Lucas Rocha
 title: Web Developer
-# email: lucasgeorgerocha@gmail.com
+email: lucasgeorgerocha@gmail.com
 phone: +55 019 999053169
 # website: Your website (eg. https://google.com)(optional)
 

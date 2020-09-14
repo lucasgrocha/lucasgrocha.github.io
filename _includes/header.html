@@ -108,12 +108,13 @@
 
       {%- if site.email -%}
         <p>
-          Email: <a href="mailto:{{ site.email }}" target="_blank">{{ site.email | escape }}</a>
+          <a href="mailto:{{ site.email }}" target="_blank">{{ site.email | escape }}</a>
+          <i class="fas fa-envelope"></i>
         </p>
       {%- endif -%}
       {%- if site.phone -%}
         <p>
-          Phone: {{ site.phone | escape }}
+          {{ site.phone | escape }} <i class="fas fa-phone-alt"></i>
         </p>
       {%- endif -%}
       {%- if site.website -%}
